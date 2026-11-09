@@ -1,0 +1,12 @@
+{
+  "name": "isla-id-studio",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Estudio personal de credenciales creativas con generador QR local y lector de cámara",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
